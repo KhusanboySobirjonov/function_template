@@ -1,0 +1,5 @@
+===> №3. 2 ta sonning o’rta arifmetigi va goemetrigini hisoblovchi MEAN nomli
+funksiya shablonini hosil qiling. MEAN funksiyasi orqali A, B, C, D sonlaridan
+(A, B), (A, C), (A, D) juftliklarining o’rta arifmetigi va geometrigini hisoblovchi
+funksiya shablonini yarating. Funksiya prototipi quyidagicha bo’lishi mumkin:
+void MEAN(float , float , float *, float *);
